@@ -96,7 +96,7 @@ if st.button("🔍 Search Drive"):
 # ======================
 st.markdown("---")
 st.markdown(
-    "👨‍💻 Developed by **Your Name**  \n"
+    "👨‍💻 Developed by **ASHIF P**  \n"
     "📖 Story: I built this project to help people easily find event photos of themselves "
     "without scrolling through thousands of pictures.  \n"
     "⚠️ Disclaimer: This tool uses AI face recognition and may not always be 100% accurate."
